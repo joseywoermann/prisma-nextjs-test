@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "next": "10.2.3",
     "@prisma/client": "^2.24.1",
     "prisma": "^2.24.1",
     "react": "17.0.2",
